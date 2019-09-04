@@ -1,24 +1,24 @@
-# README
+# Tasks - Single Page Todo Application
+This single-page to-do application features a fluid user interface that by using JavaScript–allows users to rapidly add dynamic content.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+### Prerequisites
 
-* Ruby version
+Ruby on Rails is required to be installed
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+## Deployment
 
-* Database initialization
+Use Git and GitHub for version control. User Heroku for deploying application.
 
-* How to run the test suite
+## Built With
 
-* Services (job queues, cache servers, search engines, etc.)
+* [Ruby on Rails](https://guides.rubyonrails.org/) - The web framework used
 
-* Deployment instructions
 
-* ...
+
+## Authors
+
+
+* **Jean-Pol Bacquet** - *Assignment from UCF Web Boot Camp* - [Tasks - Single Page Todo Application](https://github.com/jeanpolbac/tasks-jp-bacquet)
