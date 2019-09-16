@@ -1,6 +1,11 @@
 # Tasks - Single Page Todo Application
+
+![Image of Tasks](app/assets/images/tasks-preview.png)
+
 This single-page to-do application features a fluid user interface that by using JavaScript–allows users to rapidly add dynamic content.
 
+Preview:
+https://tasks-jp-bacquet.herokuapp.com
 
 ### Prerequisites
 
