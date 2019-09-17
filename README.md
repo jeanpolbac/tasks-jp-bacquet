@@ -1,5 +1,4 @@
 # Tasks - Single Page Todo Application
-
 ![Image of Tasks](app/assets/images/tasks-preview.png)
 
 This single-page to-do application features a fluid user interface that by using JavaScript–allows users to rapidly add dynamic content.
@@ -7,23 +6,17 @@ This single-page to-do application features a fluid user interface that by using
 Preview:
 https://tasks-jp-bacquet.herokuapp.com
 
-### Prerequisites
 
-Ruby on Rails is required to be installed
-
-
-
-## Deployment
-
-Use Git and GitHub for version control. User Heroku for deploying application.
-
-## Built With
-
-* [Ruby on Rails](https://guides.rubyonrails.org/) - The web framework used
+## Features
+* [Ruby on Rails](https://guides.rubyonrails.org/) - The web framework used.
+* Mobile-responsive.
+* Leverages Javascript to dynamically add, edit, delete and toggle tasks as done or not done.
+* Fetches task data using RESTful JSON API's from Rails.
 
 
 
 ## Authors
-
-
 * **Jean-Pol Bacquet** - *Assignment from UCF Web Boot Camp* - [Tasks - Single Page Todo Application](https://github.com/jeanpolbac/tasks-jp-bacquet)
+
+## Credits
+* [UCF - Coding Bootcamp](https://bootcamp.ce.ucf.edu/coding/)
